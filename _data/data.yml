@@ -59,41 +59,41 @@ career-profile:
 education:
     - degree: PhD(Integrated Course of Ms and PhD)
       university: Chungnam National University
-      time: 2005.09 - 2011.08
+      time: 2005 - 2011
       details: |
         6-years Full Scholarship from Korean Gov.
 
 
     - degree: BS
       university: Chungnam National University
-      time: 1998.03 - 2005.08
+      time: 1998 - 2005
       details: |
 
 
 experiences:
     - role: Assistant Professor
-      time: 2017.03 - Present
+      time: 2017 - Present
       company: Chungbuk National University, Republic of Korea
       details: |
         In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading,
         Cyber-Physical Service System Development, Workshop Co-organization, etc.
 
     - role: Research Associate
-      time: 2015.11 - 2017.02
+      time: 2015 - 2017
       company: HongKong University of Science and Technology, Hong Kong
       details: |
         In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading,
         Cyber-Physical Service System Development, Workshop Co-organization, etc.
 
     - role: Research Engineer
-      time: 2013.03 - 2017.02
+      time: 2013 - 2017
       company: Telecom SudParis, Institut Mines-Telecom, Evry, France
       details: |
         In Service Architecture Lab., Supervising Two PhD Students, Research Collaborations with
         PhD Students, EU Project Leading, Standardization Activities, etc.
         
     - role: Postdoctoral Researcher
-      time: 2012.03 - 2013.02
+      time: 2012 - 2013
       company: Rutgers, The State University of New Jersey, New Brunswick, NJ, USA
       details: |
         In Rutgers Center for Operations Research, Research Collaborations with a Professor and
@@ -101,7 +101,7 @@ experiences:
         Sensor Networks and Robust Multicast Routing in Dynamic Wireless Network Topologies, etc.
 
     - role: TA &amp; RA
-      time: 2012.03 - 2013.02
+      time: 2012 - 2013
       company: Chungnam National University, Daejeon, Republic of Korea
       details: |
         Computer Network Design, Data Communication and Network Programming, Practices of
