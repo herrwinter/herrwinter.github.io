@@ -255,6 +255,54 @@ publications:
         conference: "IEEE Communications Letters, Vol. 14, No. 4, pp. 321-323, Apr. 2010."
 
 
+      - title: "Novel Strategy for Data Dissemination to Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 14, No. 3, pp. 202-204, Mar. 2010."
+
+      - title: "Reliable Push Notification for Mobile Users in Interactive Smart Mobile Applications"
+        authors: Taehun Yang, Cheonyong Kim, Sangdae Kim, Sang-Ha Kim, and Soochang Park
+        conference: "in Proc. of ACM-IEEE International Conference on Information Processing in Sensor Networks (IPSN) 2018, Apr. 2018"
+        
+      - title: "Notify-and-Interact: A Beacon-Smartphone Interaction for User Engagement in Galleries"
+        authors: Pai Chet Ng, James She, and Soochang Park
+        conference: "in Proc. of IEEE International Conference on Multimedia and Expo (ICME) 2017, Jul. 2017"
+
+      - title: "Beacon-based Proximity Detection using Compressive Sensing for Sparse Deployment"
+        authors: Pai Chet Ng, Li Zhu, James She, Rong Ran, and Soochang Park
+        conference: "in Proc. of IEEE International Symposium on A World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2017, Jun. 2017."
+
+      - title: "Effectiveness of Mobile Notification Delivery"
+        authors: Prasanta Saikia, Ming Cheung, James She, and Soochang Park
+        conference: "in Proc. of IEEE Mobile Data Management (MDM), 2017, May 2017."
+        
+      - title: "Visual Background Recommendation for Dance Performances Using Dancer-Shared Images"
+        authors: Jiqing Wen, Xiaopeng Li, James She, Soochang Park, and Ming Cheung
+        conference: "in Proc. of IEEE Cyber, Physical and Social Computing (CPSCom) 2016, Dec. 2016."
+        
+      - title: "Handling Sink Group Mobility in Wireless Sensor Networks"
+        authors: Yongbin Yim, Jinhyuk Yim, Euisin Lee, Soochang Park, Sang-Ha Kim, and Mario Gerla
+        conference: "in Proc. of IEEE Consumer Communications & Networking Conference (CCNC) 2016, Jan. 2016."
+
+      - title: "On-site Service Discovery along User Roaming over Internet of Things"
+        authors: Soochang Park, Dian Hussein, and Noel Crespi
+        conference: "in Proc. of IEEE International Conference on Consumer Electronics (ICCE) 2015, Jan. 2015."
+
+      - title: "A Cognitive Context-aware Approach for Adaptive Services Provisioning in Social Internet of Things"
+        authors: Dian Hussein, Soochang Park, and Noel Crespi
+        conference: "in Proc. of IEEE International Conference on Consumer Electronics (ICCE) 2015, Jan. 2015."
+
+      - title: "Alike People, Alike Interests? A Large-scale Study on Interest Similarity in Social Networks"
+        authors: Xiao Han, Leye Wang, Soochang Park, Angel Cuevas, and Noel Crespi
+        conference: "in Proc. of IEEE-ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM) 2014, Aug. 2014, pp. 491-496."
+        
+      - title: "IoT Routing Architecture with Autonomous Systems of Things"
+        authors: Soochang Park, Noel Crespi, Hosung Park, and Sang-Ha Kim
+        conference: "in Proc. of IEEE World Forum Internet of Things (WF-IoT) 2014, Mar. 2014"
+
+      - title: "Overlay Multicast Protocol with Proxy Districts for Dynamic Wireless Sensor Networks"
+        authors: Soochang Park, Noel Crespi, Seungmin Oh, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Symposium on Network Computing and Application (NCA) 2013, Boston, Aug. 2013, pp. 187-194. (ERA Ranking-A)"
+        
 skills:
     title: Skills &amp; Proficiency
 
