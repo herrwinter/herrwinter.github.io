@@ -132,39 +132,39 @@ projects:
         
       - title: (ETRI) LLCs in 5G
         link: "#"
-        tagline: 
+        tagline: "" 
         
       - title: (NRF) The Study of Integrated Services in Next Generation Wireless Sensor Networks
         link: "#"
-        tagline:         
+        tagline: ""        
 
       - title: (ETRI) The Study of Tussles for Architecture Design in the Future Internet
         link: "#"
-        tagline: 
+        tagline: ""
                 
       - title: (oneM2M) SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004
         link: "#"
-        tagline: 
+        tagline: ""
 
       - title: (IETF) Draft for Inter-domain Roaming between Proxy Mobile IPv6 Domains
         link: "#"
-        tagline: 
+        tagline: ""
 
       - title: (Patent) Co-development with Samsung Electronics and ETRI, ‘Method for Handover betweenProxy Domains’
         link: "#"
-        tagline: 
+        tagline: ""
 
       - title: (Reviewer) Over Fifty Journal Articles Submitted to IEEE/ACM TON, IEEE TW, IEEE TII, IEEE Communications Letters, Elsevier Ad Hoc Networks, Computer Networks, etc.
         link: "#"
-        tagline: 
+        tagline: ""
 
       - title: (TPC) IEEE ICCE 2015
         link: "#"
-        tagline: 
+        tagline: ""
 
       - title: (Shadow TPC) ACM CoNEXT 2015
         link: "#"
-        tagline: 
+        tagline: ""
 
 publications:
     title: Publications
