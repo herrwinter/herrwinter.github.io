@@ -98,31 +98,66 @@ experiences:
 
 
 projects:
-    title: Projects
+    title: Research Activity
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: ITEA2
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "SEAS: Smart Energy Aware Systems"
 
-      - title: DevStudio
+      - title: ITEA2
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "FUSE-IT: Facility Using smart Secured Energy & Information Technology"
 
-      - title: Tempo
+      - title: ITEA2
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "ICARE: Innovative Cloud Architecture for Real Entertainment"
 
-      - title: Atom
+      - title: NRF
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Research on Development of Intelligent Industrial Internet of Things(I3oT) with Edge Hierarchy and 5G Device-to-Device Communications"
 
-      - title: Delta
+      - title: ETRI
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "LLCs in 5G"
+
+      - title: NRF
+        link: "#"
+        tagline: "The Study of Integrated Services in Next Generation Wireless Sensor Networks"
+
+      - title: ETRI
+        link: "#"
+        tagline: "The Study of Tussles for Architecture Design in the Future Internet"
+
+      - title: oneM2M
+        link: "#"
+        tagline: "SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004"
+
+      - title: IETF
+        link: "#"
+        tagline: "Draft for Inter-domain Roaming between Proxy Mobile IPv6 Domains"
+
+      - title: Patent
+        link: "#"
+        tagline: "Co-development with Samsung Electronics and ETRI, ‘Method for Handover between Proxy Domains’"
+
+      - title: Reviewer
+        link: "#"
+        tagline: "Over Fifty Journal Articles Submitted to IEEE/ACM TON, IEEE TW, IEEE TII, IEEE Communications Letters, Elsevier Ad Hoc Networks, Computer Networks, etc."
+
+      - title: TPC
+        link: "#"
+        tagline: "IEEE ICCE 2015"
+
+      - title: Shadow TPC
+        link: "#"
+        tagline: "ACM CoNEXT 2015"
+
+
+
 
 publications:
     title: Publications
