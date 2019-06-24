@@ -48,110 +48,123 @@ sidebar:
         link:
 
 career-profile:
-    title: Research Activity
+    title: Career Profile
     summary: |
-      Citations 1351, h-index 20, i10-index 40 \n
-      (SCI-E Journals) Published Forty Papers \n
-      (IEEE International Conferences) Fifty-four Studies in Proceeding \n
+      Citations 1351, h-index 20, i10-index 40 
+      
+      (SCI-E Journals) Published Forty Papers
+      
+      (IEEE International Conferences) Fifty-four Studies in Proceeding 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD(Integrated Course of Ms and PhD)
+      university: Chungnam National University
+      time: 2005.09 - 2011.08
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        6-years Full Scholarship from Korean Gov.
 
-          - Bullet point
-          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS
+      university: Chungnam National University
+      time: 1998.03 - 2005.08
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant Professor
+      time: 2017.03 - Present
+      company: Chungbuk National University, Republic of Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading,
+        Cyber-Physical Service System Development, Workshop Co-organization, etc.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Associate
+      time: 2015.11 - 2017.02
+      company: HongKong University of Science and Technology, Hong Kong
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading,
+        Cyber-Physical Service System Development, Workshop Co-organization, etc.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Engineer
+      time: 2013.03 - 2017.02
+      company: Telecom SudParis, Institut Mines-Telecom, Evry, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        In Service Architecture Lab., Supervising Two PhD Students, Research Collaborations with
+        PhD Students, EU Project Leading, Standardization Activities, etc.
+        
+    - role: Postdoctoral Researcher
+      time: 2012.03 - 2013.02
+      company: Rutgers, The State University of New Jersey, New Brunswick, NJ, USA
+      details: |
+        In Rutgers Center for Operations Research, Research Collaborations with a Professor and
+        PhD Students, To Design Energy-efficient Group Mobility for Mobile Sink Groups in Wireless
+        Sensor Networks and Robust Multicast Routing in Dynamic Wireless Network Topologies, etc.
 
-          - Bullet point
-          - Bullet point
-
+    - role: TA &amp; RA
+      time: 2012.03 - 2013.02
+      company: Chungnam National University, Daejeon, Republic of Korea
+      details: |
+        Computer Network Design, Data Communication and Network Programming, Practices of
+        Network Configuration and Network Programming, etc.
+        
+        
 projects:
-    title: Projects
+    title: Research Activity
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 
     assignments:
-      - title: Velocity
+      - title: (ITEA2) SEAS
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Smart Energy Aware Systems"
 
-      - title: DevStudio
+      - title: (ITEA2) FUSE-IT
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Facility Using smart Secured Energy & Information Technology"
 
-      - title: Tempo
+      - title: (ITEA2) ICARE
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Innovative Cloud Architecture for Real Entertainment; etc."
 
-      - title: Atom
+      - title:(NRF) Research on Development of Intelligent Industrial Internet of Things (I3oT) with Edge Hierarchy and 5G Device-to-Device Communications
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
+        
+      - title: (ETRI) LLCs in 5G
+        link: "#"
+        tagline: 
+        
+      - title: (NRF) The Study of Integrated Services in Next Generation Wireless Sensor Networks
+        link: "#"
+        tagline:         
 
-      - title: Delta
+      - title: (ETRI) The Study of Tussles for Architecture Design in the Future Internet
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
+                
+      - title: (oneM2M) SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004
+        link: "#"
+        tagline: 
+
+      - title: (IETF) Draft for Inter-domain Roaming between Proxy Mobile IPv6 Domains
+        link: "#"
+        tagline: 
+
+      - title: (Patent) Co-development with Samsung Electronics and ETRI, ‘Method for Handover betweenProxy Domains’
+        link: "#"
+        tagline: 
+
+      - title: (Reviewer) Over Fifty Journal Articles Submitted to IEEE/ACM TON, IEEE TW, IEEE TII, IEEE Communications Letters, Elsevier Ad Hoc Networks, Computer Networks, etc.
+        link: "#"
+        tagline: 
+
+      - title: (TPC) IEEE ICCE 2015
+        link: "#"
+        tagline: 
+
+      - title: (Shadow TPC) ACM CoNEXT 2015
+        link: "#"
+        tagline: 
 
 publications:
     title: Publications
@@ -177,23 +190,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: CCNA (Cisco Career Certification Test Requirements as a Cisco Certified Network Associate)
+      - name: SCSA (SUN Certified System Administrator the Solaris Operating Environment)
+      - name: SCJP (SUN Certified Java Programmer for the Java Platform)
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: UNIX, Linux, Windows MFC, RPi, Android, PCAP, TensorFlow, PyTorch Programming, C, C++, Jave, Python, nesC, etc.
 
-      - name: Angular
-        level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
