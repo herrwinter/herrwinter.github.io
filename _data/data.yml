@@ -264,6 +264,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: CCNA (Cisco Career Certification Test Requirements as a Cisco Certified Network Associate)
+      - name: SCSA (SUN Certified System Administrator the Solaris Operating Environment)
+      - name: SCJP (SUN Certified Java Programmer for the Java Platform
       - name: UNIX, Linux, Windows MFC, RPi, Android, PCAP, TensorFlow, PyTorch Programming, C, C++, Jave, Python, nesC, etc.
 
 footer: >
