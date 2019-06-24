@@ -258,9 +258,11 @@ publications:
         authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 14, No. 3, pp. 202-204, Mar. 2010."
 
+
+
       - title: "Reliable Push Notification for Mobile Users in Interactive Smart Mobile Applications"
         authors: Taehun Yang, Cheonyong Kim, Sangdae Kim, Sang-Ha Kim, and Soochang Park
-        conference: "in Proc. of ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN) 2018, Apr. 2018"
+        conference: "in Proc. of ACM-IEEE International Conference on Information Processing in Sensor Networks (IPSN) 2018, Apr. 2018"
         
       - title: "Notify-and-Interact: A Beacon-Smartphone Interaction for User Engagement in Galleries"
         authors: Pai Chet Ng, James She, and Soochang Park
@@ -292,7 +294,7 @@ publications:
 
       - title: "Alike People, Alike Interests? A Large-scale Study on Interest Similarity in Social Networks"
         authors: Xiao Han, Leye Wang, Soochang Park, Angel Cuevas, and Noel Crespi
-        conference: "in Proc. of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM) 2014, Aug. 2014, pp. 491-496."
+        conference: "in Proc. of IEEE-ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM) 2014, Aug. 2014, pp. 491-496."
         
       - title: "IoT Routing Architecture with Autonomous Systems of Things"
         authors: Soochang Park, Noel Crespi, Hosung Park, and Sang-Ha Kim
