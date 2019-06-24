@@ -35,7 +35,7 @@ sidebar:
 #        level: Professional
 
     interests:
-      - item: IoT and AI
+      - item: Internet of Things and Artificial Intelligence
         link:
 
       - item: Wireless Sensor Network
@@ -50,31 +50,9 @@ sidebar:
 career-profile:
     title: Research Activity
     summary: |
-      Research Articles
-      Citations 1351, h-index 20, i10-index 40
-      (SCI-E Journals) Published Forty Papers
-      (IEEE International Conferences) Fifty-four Studies in Proceeding
-      
-      
-      Research Projects
-      EU Projects: (ITEA2) SEAS: Smart Energy Aware Systems; (ITEA2) FUSE-IT: Facility Using
-      smart Secured Energy & Information Technology; (ITEA2) ICARE: Innovative Cloud
-      Architecture for Real Entertainment; etc.
-      Korean Projects: (NRF) Research on Development of Intelligent Industrial Internet of Things
-      (I3oT) with Edge Hierarchy and 5G Device-to-Device Communications; (ETRI) LLCs in 5G;
-      (NRF) The Study of Integrated Services in Next Generation Wireless Sensor Networks; (ETRI)
-      The Study of Tussles for Architecture Design in the Future Internet; etc.
-      
-      Standardizations/Patents
-      (oneM2M) SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004
-      (IETF) Draft for Inter-domain Roaming between Proxy Mobile IPv6 Domains
-      (Patent) Co-development with Samsung Electronics and ETRI, ‘Method for Handover between
-      Proxy Domains’
-      
-      Additional Professional Activities
-      (Reviewer) Over Fifty Journal Articles Submitted to IEEE/ACM TON, IEEE TW, IEEE TII, IEEE
-      Communications Letters, Elsevier Ad Hoc Networks, Computer Networks, etc.
-      (TPC) IEEE ICCE 2015, (Shadow TPC) ACM CoNEXT 2015
+      Citations 1351, h-index 20, i10-index 40 \n
+      (SCI-E Journals) Published Forty Papers \n
+      (IEEE International Conferences) Fifty-four Studies in Proceeding \n
 
 education:
     - degree: MSc in Computer Science
