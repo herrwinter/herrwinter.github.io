@@ -105,55 +105,39 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: ITEA2
-        link: "#hook"
-        tagline: "SEAS: Smart Energy Aware Systems"
-
-      - title: ITEA2
-        link: "#"
-        tagline: "FUSE-IT: Facility Using smart Secured Energy & Information Technology"
-
-      - title: ITEA2
-        link: "#"
-        tagline: "ICARE: Innovative Cloud Architecture for Real Entertainment"
+        link: 
+        tagline: "SEAS: Smart Energy Aware Systems; FUSE-IT: Facility Using smart Secured Energy & Information Technology; ICARE: Innovative Cloud Architecture for Real Entertainment"
 
       - title: NRF
-        link: "#"
-        tagline: "Research on Development of Intelligent Industrial Internet of Things(I3oT) with Edge Hierarchy and 5G Device-to-Device Communications"
+        link: 
+        tagline: "Research on Development of Intelligent Industrial Internet of Things(I3oT) with Edge Hierarchy and 5G Device-to-Device Communications; The Study of Integrated Services in Next Generation Wireless Sensor Networks"
 
       - title: ETRI
-        link: "#"
-        tagline: "LLCs in 5G"
-
-      - title: NRF
-        link: "#"
-        tagline: "The Study of Integrated Services in Next Generation Wireless Sensor Networks"
-
-      - title: ETRI
-        link: "#"
-        tagline: "The Study of Tussles for Architecture Design in the Future Internet"
+        link: 
+        tagline: "LLCs in 5G; The Study of Tussles for Architecture Design in the Future Internet"
 
       - title: oneM2M
-        link: "#"
+        link: 
         tagline: "SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004"
 
       - title: IETF
-        link: "#"
+        link: 
         tagline: "Draft for Inter-domain Roaming between Proxy Mobile IPv6 Domains"
 
       - title: Patent
-        link: "#"
+        link: 
         tagline: "Co-development with Samsung Electronics and ETRI, ‘Method for Handover between Proxy Domains’"
 
       - title: Reviewer
-        link: "#"
+        link: 
         tagline: "Over Fifty Journal Articles Submitted to IEEE/ACM TON, IEEE TW, IEEE TII, IEEE Communications Letters, Elsevier Ad Hoc Networks, Computer Networks, etc."
 
       - title: TPC
-        link: "#"
+        link: 
         tagline: "IEEE ICCE 2015"
 
       - title: Shadow TPC
-        link: "#"
+        link: 
         tagline: "ACM CoNEXT 2015"
 
 
@@ -162,21 +146,119 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "luXbeacon -A Batteryless Beacon for Green IoT: Design, Modeling, and Field Tests"
+        authors: Kang Eun Jeon, James She, Jason Xue, Sang-Ha Kim, and Soochang Park
+        conference: "IEEE Internet of Things Journal, Jan. 2019 (Early Access)"
+        
+      - title: "High Resolution Beacon-Based Proximity Detection for Dense Deployment"
+        authors: Pai Chet Ng, James She, and Soochang Park
+        conference: "IEEE Transactions on Mobile Computing, Vol. 17, No. 6, pp. 1369-1382, Jun. 2018."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Active Data Dissemination for Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Jeongcheol Lee, Seungmin Oh, Soochang Park, Yongbin Yim, Sang-Ha Kim, and Euisin Lee
+        conference: "Ad Hoc Networks, Vol. 72, pp. 56-67, Apr. 2018"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Energy Efficient and Accurate Monitoring of Large-scale Diffusive Objects in Internet of Things"
+        authors: Seungmin Oh, Jeongcheol Lee, and Soochang Park
+        conference: "IEEE Communications Letters, Vol. 21, No. 3, pp. 612-615, Mar. 2017. (Corresponding Author)"
+
+      - title: "Analytics-driven Visualization on Digital Directory via Screen-Smart Device Interactions"
+        authors: Ming Cheung, James She, and Soochang Park
+        conference: "IEEE Transactions on Multimedia, Vol. 18, No. 11, pp. 2303 - 2314, Nov. 2016. (Corresponding Author)"
+        
+      - title: "Dynamic Social Structure of Things: A Contextual Approach in CPSS"
+        authors: Dina Hussein, Soochang Park, Son N. Han, and Noel Crespi
+        conference: "IEEE Internet Computing, Vol. 19, No. 3, pp. 12-20, May/Jun. 2015. (Corresponding Author)"
+        
+      - title: "Large-scale Mobile Phenomena Monitoring with Energy-efficiency in Wireless Sensor Networks"
+        authors: Soochang Park, Seung-Woo Hong, Euisin Lee, Sang-Ha Kim, and Noel Crespi
+        conference: "Elsevier Computer Networks, Vol. 81, pp. 116-135, Apr. 2015."
+
+      - title: "Extending the Device Profile for Web Services (DPWS) standard using a REST Proxy"
+        authors: Son N. Han, Soochang Park, Gyu Myoung Lee, and Noel Crespi
+        conference: "IEEE Internet Computing, Vol. 19, No. 1, pp. 10-17, Jan./Feb. 2015."
+
+      - title: "Alike People, Alike Interests? Inferring Interest Similarity in Online Social Networks"
+        authors: Xiao Han, Leye Wang, Noel Crepi, Soochang Park, and Angel Cuevasa
+        conference: "Elsevier Decision Support Systems, Vol. 69, pp. 92–106, Jan. 2015."
+
+      - title: "Rendezvous-based Data Dissemination for Supporting Mobile Sinks in Multi-hop Clustered Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Seungmin Oh, and Sang-Ha Kim
+        conference: Springer Wireless Networks, Vol. 20, No. 8, pp. 2319-2336, Nov. 2014.
+        
+      - title: "Design and Analysis of Novel Quorum-based Sink Location Service Scheme in Wireless Sensor Networks"
+        authors: Euisin Lee, Fucai Yu, Soochang Park, Sang-Ha Kim, Youngtae Noh, and Eun-Kyu Lee
+        conference: "Springer Wireless Networks, Vol. 20, No. 3, pp. 493-509, Apr. 2014."
+        
+      - title: "The Cluster Between Internet of Things and Social Networks: Review and Research Challenges"
+        authors: Antonio M. Ortiz, Dina Ali Hussein, Soochang Park, Son N. Han, and Noel Crespi
+        conference: "IEEE Internet of Things Journal, Vol. 1, No. 3, pp. 206-215, Jun. 2014."
+
+      - title: "Band-based Geocasting for Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Soochang Park, Seungmin Oh, Jinho Kim, Euisin Lee, and Sang-Ha Kim
+        conference: "Springer Wireless Networks, Vol. 19, No. 6, pp. 1285-1298, Aug. 2013."
+
+      - title: "Virtual Line-Based Data Dissemination for Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Hee-Sook Mo, Euisin Lee, Soochang Park, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 17, No. 9, pp. 1864-1867, Jun. 2013."
+
+      - title: "Scalable Location Guide Overlay Multicast in Mobile Ad Hoc Networks Using Tree Partition Scheme"
+        authors: Fucai Yu, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conference: "Wiley Wireless Communications and Mobile Computing, Vol. 12, No. 11, pp. 969–984, Aug. 2012."
+
+      - title: "Quorum Based Sink Location Service for Irregular Wireless Sensor Networks,"
+        authors: Fucai Yu, Guangmin Hu, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conference: "Elsevier Computer Communications, Vol. 35, No. 12, pp. 1422-1432, Jul. 2012."
+        
+      - title: "Reliable and Flexible Detection of Large-scale Phenomena on Wireless Sensor Networks"
+        authors: Soochang Park, Hosung Park, Euisin Lee, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 16, No. 6, pp. 933-936, Jun. 2012."
+
+      - title: "Multicast Protocol for Real-time Data Dissemination in Wireless Sensor Networks"
+        authors: Hosung Park, Jeongcheol Lee, Soochang Park, Seungmin Oh, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 15, No. 12, pp. 1291-1293, Dec. 2011."
+
+      - title: "Geographic Multicast Protocol for Mobile Sinks in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Jeongcheol Lee, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 15, No. 12, pp. 1320-1322, Dec. 2011."
+
+      - title: "Novel Service Protocol for Supporting Remote and Mobile Users in Wireless Sensor Networks with Multiple Static Sinks"
+        authors: Euisin Lee, Soochang Park, Jeongcheol Lee, Seungmin Oh, and Sang-Ha Kim
+        conference: "Springer Wireless Networks, Vol. 17, No. 4, pp. 861-875, May 2011."
+
+      - title: "Mobile Geocasting to Support Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Hosung Park, Hyungjoo Lee, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 14, No. 10, pp. 939-941, Oct. 2010."
+        
+      - title: "Scalable and Robust Data Dissemination for Large-scale Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Fucai Yu, and Sang-Ha Kim
+        conference: "IEEE Transactions on Consumer Electronics, Vol. 56, No. 3, pp. 1616-1624, Aug. 2010."
+
+      - title: "Communication Model and Protocol based on Multiple Static Sinks for Supporting Mobile Users in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
+        conference: "IEEE Transactions on Consumer Electronics, Vol. 56, No. 3, pp. 1652-1660, Aug. 2010."
+
+      - title: "Data Gathering Mechanism with Local Sink in Geographic Routing for Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
+        conference: "IEEE Transactions on Consumer Electronics, Vol. 56, No. 3, pp. 1433-1441, Aug. 2010."
+
+      - title: "Sink Location Service Based on Circle and Line Paths in Wireless Sensor Networks"
+        authors: Euisin Lee, Fucai Yu, Soochang Park, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 14, No. 8, pp. 710-712, Aug. 2010."
+
+      - title: "Elastic Routing: a Novel Geographic Routing for Mobile Sinks in Wireless Sensor Networks"
+        authors: Fucai Yu, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conference: "IET Communications, Vol. 4, No. 6, pp. 716-727, Apr. 2010."
+        
+      - title: "A Simple Location Propagation Scheme for Mobile Sink in Wireless Sensor Networks"
+        authors: Fucai Yu, Euisin Lee, Soochang Park, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 14, No. 4, pp. 321-323, Apr. 2010."
+
+      - title: "Novel Strategy for Data Dissemination to Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
+        conference: "IEEE Communications Letters, Vol. 14, No. 3, pp. 202-204, Mar. 2010."
+
 
 skills:
     title: Skills &amp; Proficiency
