@@ -264,8 +264,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: UNIX, Linux, Windows MFC, RPi, Android, PCAP, TensorFlow, PyTorch Programming,
-C, C++, Jave, Python, nesC, etc.
+      - name: UNIX, Linux, Windows MFC, RPi, Android, PCAP, TensorFlow, PyTorch Programming, C, C++, Jave, Python, nesC, etc.
         level: 100%
 
 footer: >
