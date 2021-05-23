@@ -50,35 +50,42 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Citations 1351, h-index 20, i10-index 40 
+      Citations 1804, h-index 23, i10-index 47 (25APR2021)
       
-      (SCI-E Journals) Published Forty Papers
+      (SCI-E Journals) Forty-one Published Papers
       
-      (IEEE International Conferences) Fifty-four Studies in Proceeding 
+      (IEEE International Conferences) Sixty Studies in Proceeding
+
 education:
     - degree: PhD(Integrated Course of Ms and PhD)
-      university: Chungnam National University
+      university: Chungnam National University, Daejeon, Republic of Korea (6-years Full Scholarship from Korean Gov.)
       time: 2005 - 2011
-      details: |
+      details: Dissertation':' Data-centric Dissemination Protocols toward Mobile Sink Groups in Wireless Sensor Networks
         
     - degree: BS
       university: Chungnam National University
       time: 1998 - 2005
-      details: |
+      details: Thesis':' Understanding and Configuration of the IPv6 Protocol and Related Routing Protocols
+
 experiences:
-    - role: Assistant Professor
-      time: 2017 - Present
-      company: Chungbuk National University, Cheongju, Republic of Korea
+    - role: Associate Professor
+      time: 2021.04 - Present
+      company: Chungbuk National University (CBNU), Cheongju, Republic of Korea
       details: |
-        In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading, Cyber-Physical Service System Development, Workshop Co-organization, etc.
+        Funding Director of Computer Communication Laboratory in CBNU (CCLab-CBNU), etc.
+    - role: Assistant Professor
+      time: 2017.03 - 2021.03
+      company: Chungbuk National University (CBNU), Cheongju, Republic of Korea
+      details: |
+        Funding Director of Computer Communication Laboratory in CBNU (CCLab-CBNU), Head of Business Incubation Center in CBNU, Committee of Some Korean Research Societies, etc.
     - role: Research Associate
-      time: 2015 - 2017
+      time: 2015.11 - 2017.02
       company: Hong Kong University of Science and Technology, Hong Kong
       details: |
         In Social Media Lab., Research Collaborations with PhD&Master Students, Project Leading, Cyber-Physical Service System Development, Workshop Co-organization, etc.
     - role: Research Engineer
-      time: 2013 - 2015
-      company: Telecom SudParis, Institut Mines-Telecom, Evry, France
+      time: 2013.03 - 2015.11
+      company: Télécom SudParis, Institut Mines-Télécom, Evry, France
       details: |
         In Service Architecture Lab., Supervising Two PhD Students, Research Collaborations with PhD Students, EU Project Leading, Standardization Activities, etc.
     - role: Postdoctoral Researcher
@@ -91,11 +98,16 @@ experiences:
       company: Chungnam National University, Daejeon, Republic of Korea
       details: |
         Computer Network Design, Data Communication and Network Programming, Practices of Network Configuration and Network Programming, etc.
+
 projects:
     title: Research Activity
     intro: >
       
     assignments:
+      - title: Research Projects
+        link:
+        tagline:
+
       - title: ITEA2
         link: 
         tagline: "SEAS: Smart Energy Aware Systems; FUSE-IT: Facility Using smart Secured Energy & Information Technology; ICARE: Innovative Cloud Architecture for Real Entertainment"
@@ -108,6 +120,10 @@ projects:
         link: 
         tagline: "LLCs in 5G; The Study of Tussles for Architecture Design in the Future Internet"
 
+      - title: Standardisations And Patents
+        link:
+        tagline:
+
       - title: oneM2M
         link: 
         tagline: "SIX Accepted Contributions on WG3 Specification ‘Core Protocol’ TS-0004"
@@ -119,6 +135,15 @@ projects:
       - title: Patent
         link: 
         tagline: "Co-development with Samsung Electronics and ETRI, ‘Method for Handover between Proxy Domains’"
+
+      - title: Additional Professional Activities
+        link:
+        tagline:
+
+      - title: Guest Editor
+        link:
+        tagline: "MDPI Electronics SI: Green Internet-of-Thing Design and Modeling in AI and 5G Ecosystems"
+
 
       - title: Reviewer
         link: 
@@ -134,11 +159,23 @@ projects:
 
 
 
-
 publications:
     title: Publications
     intro: |
     papers:
+      - title: "Journal Publications"
+        authors:
+        conference:
+
+      - title: "D-PARK: User-Centric Smart Parking System over BLE-Beacon Based Internet of Things"
+        authors: Soochang Park
+        conference: "Electronics, Vol. 10, No. 5, Feb. 2021. (https://doi.org/10.3390/ electronics10050541)"
+
+      - title: "Microscale Particulate Matter Monitoring With Reliable Event Transport in Urban Environments"
+        authors: Taehun Yang, Hakgyun Roh, Jinsoo Han, Soochang Park, and Sang-Ha Kim
+        conference: IEEE Systems Journal, Vol. 14, No. 2, pp. 3057-3060, Jun. 2020. (Corresponding Author)
+
+
       - title: "luXbeacon -A Batteryless Beacon for Green IoT: Design, Modeling, and Field Tests"
         authors: Kang Eun Jeon, James She, Jason Xue, Sang-Ha Kim, and Soochang Park
         conference: "IEEE Internet of Things Journal, Jan. 2019 (Early Access)"
@@ -207,6 +244,11 @@ publications:
         authors: Soochang Park, Hosung Park, Euisin Lee, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 16, No. 6, pp. 933-936, Jun. 2012."
 
+      - title: "Local Location Search based Progressive Geographic Multicast Protocol in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Jeongcheol Lee, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E95-B. No. 4, pp. 1419-1422, Apr. 2012."
+
+
       - title: "Multicast Protocol for Real-time Data Dissemination in Wireless Sensor Networks"
         authors: Hosung Park, Jeongcheol Lee, Soochang Park, Seungmin Oh, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 15, No. 12, pp. 1291-1293, Dec. 2011."
@@ -219,10 +261,32 @@ publications:
         authors: Euisin Lee, Soochang Park, Jeongcheol Lee, Seungmin Oh, and Sang-Ha Kim
         conference: "Springer Wireless Networks, Vol. 17, No. 4, pp. 861-875, May 2011."
 
+      - title: "Real-time Routing Based On-demand Multi-hop Lookahead in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Juhyun Jung, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E94-B. No. 2, pp. 569-572, Feb. 2011."
+
+      - title: "Cluster-based Communication for Mobile Sink Groups in Large-scale Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E94-B, No. 1, pp. 307-310, Jan. 2011."
+
+      - title: "Quality-based Event Reliability Protocol in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Hosung Park, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E94-B, No. 1, pp. 293-296, Jan. 2011."
+
+      - title: "Scalable Location Guide Overlay Multicast in Mobile Ad Hoc Networks Using Tree Partition Scheme"
+        authors: Fucai Yu, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conferences: "Wiley Wireless Communications and Mobile Computing, doi: 10.1002/wcm.1028, Oct. 2010."
+
+
       - title: "Mobile Geocasting to Support Mobile Sink Groups in Wireless Sensor Networks"
         authors: Soochang Park, Euisin Lee, Hosung Park, Hyungjoo Lee, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 14, No. 10, pp. 939-941, Oct. 2010."
-        
+
+      - title: "On Selection of Energy-Efficient Data Aggregation Node in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E93-B, No. 9, pp. 2436-2439, Sep. 2010."
+
+
       - title: "Scalable and Robust Data Dissemination for Large-scale Wireless Sensor Networks"
         authors: Soochang Park, Euisin Lee, Fucai Yu, and Sang-Ha Kim
         conference: "IEEE Transactions on Consumer Electronics, Vol. 56, No. 3, pp. 1616-1624, Aug. 2010."
@@ -239,6 +303,11 @@ publications:
         authors: Euisin Lee, Fucai Yu, Soochang Park, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 14, No. 8, pp. 710-712, Aug. 2010."
 
+      - title: "Inter-Domain Roaming Mechanism Transparent to Mobile Nodes among PMIPv6 Networks"
+        authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
+        conferences: "IEICE Transactions on Communications, Vol. E93-B, No. 6, pp. 1608-1611, Jun. 2010."
+
+
       - title: "Elastic Routing: a Novel Geographic Routing for Mobile Sinks in Wireless Sensor Networks"
         authors: Fucai Yu, Soochang Park, Euisin Lee, and Sang-Ha Kim
         conference: "IET Communications, Vol. 4, No. 6, pp. 716-727, Apr. 2010."
@@ -250,45 +319,267 @@ publications:
       - title: "Novel Strategy for Data Dissemination to Mobile Sink Groups in Wireless Sensor Networks"
         authors: Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
         conference: "IEEE Communications Letters, Vol. 14, No. 3, pp. 202-204, Mar. 2010."
+
+      - title: "QSLS: Efficient Quorum Based Sink Location Service for Geographic Routing in Irregular Wireless Sensor Networks"
+        authors: Fucai Yu, Soochang Park, Euisin Lee, Youngwhan Choi, Sang-Ha Kim,
+        conferences: " IEICE Transactions on Communications, Vol. E92-B, No. 12, pp. 3935-3938, Dec. 2009. 26."
+
+      - title: "Hole Modeling and Detour Scheme for Geographic Routing in Wireless Sensor Networks"
+        authors: Fucai Yu, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conferences: "Journal of Communications and Networks (JCN), pp. 327-336, Aug. 2009. 27."
+
+      - title: "Exploiting Mobility for Efficient Data Dissemination in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
+        conferences: "Journal of Communications and Networks (JCN), pp. 337-349, Aug. 2009."
+
+
+
+
+
+      - title: "Conference Proceeding"
+        authors:
+        conference:
+
+      - title: "Novel Paradigm for Abstraction and Management of Heterogenous Things over Large-scale Internet of Things"
+        authors: Byeongjo Park, Sang-Hoon LEE, and Soochang PARK
+        conference: "in Proc. of 2021 IEEE International Conference on Consumer Electronics (ICCE2021), Jan. 2021."
+
+      - title: "Smart Parking with Learning-aided User Activity Sensing Based on Edge Computing"
+        authors: Soyeon Kim, Soochang Park, Sang-Hoon Lee, and Kang Eun Jeon
+        conference: "in Proc. of 2021 IEEE Consumer Communications & Networking Conference (CCNC 2021), Jan. 2021."
+
+      - title: "Cyber-Physical Individual Monitoring in Indoor Internet-of-Things Systems with Edge Intelligence"
+        authors: Changseong Kim, Soyeon Kim, Sang-Hoon Lee, Soochang Park, and Taehun Yang
+        conference: "in Proc. of 2021 IEEE Consumer Communications & Networking Conference (CCNC 2021), Jan."
+
+      - title: "Reliable Mobile-Proximity Interaction Mechanism Based on BLE Beacon-initiated Notification"
+        authors: Sangwon Seo, Kang Eun Jeon, and Soochang Park
+        conference: "in Proc. of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Sep. 2019, Honolulu, Hawaii, USA."
+
+      - title: "Smart Parking with Fine-grained Localization and User Status Sensing Based on Edge Computing"
+        authors: Cheonsol Lee, Soochang Park, Sang-Hoon Lee, and Taehun Yang
+        conference: "in Proc. of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Sep. 2019, Honolulu, Hawaii, USA."
+
+      - title: "Proxy Individual Positioning via IEEE 802.11 Monitor Mode and Fine-tuned Analytics"
+        authors: Myungsung You, Soochang Park, Sang-Hoon Lee, and Taehun Yang
+        conference: "in Proc. of IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Sep. 2019, Honolulu, Hawaii, USA."
+
       - title: "Reliable Push Notification for Mobile Users in Interactive Smart Mobile Applications"
         authors: Taehun Yang, Cheonyong Kim, Sangdae Kim, Sang-Ha Kim, and Soochang Park
-        conference: "in Proc. of ACM-IEEE International Conference on Information Processing in Sensor Networks (IPSN) 2018, Apr. 2018"
-        
+        conference: "in Proc. of ACM/ IEEE International Conference on Information Processing in Sensor Networks (IPSN) 2018, Apr. 2018."
+
       - title: "Notify-and-Interact: A Beacon-Smartphone Interaction for User Engagement in Galleries"
         authors: Pai Chet Ng, James She, and Soochang Park
         conference: "in Proc. of IEEE International Conference on Multimedia and Expo (ICME) 2017, Jul. 2017"
+
       - title: "Beacon-based Proximity Detection using Compressive Sensing for Sparse Deployment"
         authors: Pai Chet Ng, Li Zhu, James She, Rong Ran, and Soochang Park
         conference: "in Proc. of IEEE International Symposium on A World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2017, Jun. 2017."
+
       - title: "Effectiveness of Mobile Notification Delivery"
         authors: Prasanta Saikia, Ming Cheung, James She, and Soochang Park
         conference: "in Proc. of IEEE Mobile Data Management (MDM), 2017, May 2017."
-        
+
       - title: "Visual Background Recommendation for Dance Performances Using Dancer-Shared Images"
         authors: Jiqing Wen, Xiaopeng Li, James She, Soochang Park, and Ming Cheung
         conference: "in Proc. of IEEE Cyber, Physical and Social Computing (CPSCom) 2016, Dec. 2016."
-        
+
       - title: "Handling Sink Group Mobility in Wireless Sensor Networks"
         authors: Yongbin Yim, Jinhyuk Yim, Euisin Lee, Soochang Park, Sang-Ha Kim, and Mario Gerla
         conference: "in Proc. of IEEE Consumer Communications & Networking Conference (CCNC) 2016, Jan. 2016."
+
       - title: "On-site Service Discovery along User Roaming over Internet of Things"
         authors: Soochang Park, Dian Hussein, and Noel Crespi
         conference: "in Proc. of IEEE International Conference on Consumer Electronics (ICCE) 2015, Jan. 2015."
+
       - title: "A Cognitive Context-aware Approach for Adaptive Services Provisioning in Social Internet of Things"
         authors: Dian Hussein, Soochang Park, and Noel Crespi
         conference: "in Proc. of IEEE International Conference on Consumer Electronics (ICCE) 2015, Jan. 2015."
+
       - title: "Alike People, Alike Interests? A Large-scale Study on Interest Similarity in Social Networks"
         authors: Xiao Han, Leye Wang, Soochang Park, Angel Cuevas, and Noel Crespi
-        conference: "in Proc. of IEEE-ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM) 2014, Aug. 2014, pp. 491-496."
-        
+        conference: "in Proc. of IEEE/ ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) 2014, Aug. 2014, pp. 491-496."
+
       - title: "IoT Routing Architecture with Autonomous Systems of Things"
         authors: Soochang Park, Noel Crespi, Hosung Park, and Sang-Ha Kim
-        conference: "in Proc. of IEEE World Forum Internet of Things (WF-IoT) 2014, Mar. 2014"
+        conference: "in Proc. of IEEE World Forum Internet of Things (WF-IoT) 2014, Mar. 2014."
+
       - title: "Overlay Multicast Protocol with Proxy Districts for Dynamic Wireless Sensor Networks"
         authors: Soochang Park, Noel Crespi, Seungmin Oh, and Sang-Ha Kim
-        conference: "in Proc. of IEEE International Symposium on Network Computing and Application (NCA) 2013, Boston, Aug. 2013, pp. 187-194. (ERA Ranking-A)"
-        
+        conference: "in Proc. of IEEE International Symposium on Network Computing and Application (NCA) 2013, Boston, Aug. 2013, pp. 187-194."
 
+      - title: "B-Geocasting: Effective Data Dissemination Protocol to Support Group Mobility of Sinks"
+        authors: Soochang Park, Jeongcheol Lee, Seungmin Oh, Euisin Lee, Yongbin Yim, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2012, Sydney, Sep. 2012."
+
+      - title: "Reliable and Energy-Efficient Routing Protocol for Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Yongbin Yim, Euisin Lee, Jeongcheol Lee, Soochang Park, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2012, Sydney, Sep. 2012."
+
+      - title: "Selective Wakeup Discipline for Continuous Object Tracking in Grid-based Wireless Sensor Networks"
+        authors: Hosung Park, Seungmin Oh, Euisin Lee, Soochang Park, Sang-Ha Kim, and Wanseop Lee
+        conference: "in Proc. of IEEE Wireless Communications and Networking Conference (WCNC) 2012, Paris, Apr. 2012."
+
+      - title: "X-Geocasting: Data Dissemination to Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Yongbin Yim, Fucai Yu, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2011, Toronto, Sep. 2011."
+
+      - title: "Data Dissemination Protocol based on Independent Grid Structure in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Hosung Park, Yongbin Yim, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2011, Toronto, Sep. 2011."
+
+      - title: "Real-time Routing Protocol based on Expect Grids for Mobile Sinks in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Jeongcheol Lee, Seungmin Oh, and Sang-Ha Kim
+        conference: "in Proc. of IEEE 74st Vehicular Technology Conference (VTC2011-Fall), San Francisco, Sep. 2011."
+
+      - title: "A Cluster-based Continuous Object Tracking Scheme in Wireless Sensor Networks"
+        authors: Wanseop Lee, Soochang Park, Jeongcheol Lee, and Sang-Ha Kim
+        conference: "in Proc. of IEEE 74st Vehicular Technology Conference (VTC2011-Fall), San Francisco, Sep. 2011."
+
+      - title: "Reliability Support Protocol for Continuous Object Detection in Large-scale Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Sang-Ha Kim, Ki-dong Nam, and Sungkee Noh
+        conference: "in Proc. of IEEE International Conference on Advanced Information Networking and Applications (AINA) 2011, Singapore, Mar. 2011."
+
+      - title: "Group Mobility Support Protocol for Mobile Sinks Based on Grid Clusters in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Hosung Park, Jeongcheol Lee, and Sang-Ha Kim
+        conference: "in Proc. of IEEE International Conference on Advanced Information Networking
+                     and Applications (AINA) 2011, Singapore, Mar. 2011."
+
+      - title: "Reliable Continuous Objects Detection Algorithm in Wireless Sensor Networks,"
+        authors: Ki-Dong Nam, Sungkee Noh, Soochang Park, Hosung Park, and Sang-Ha Kim
+        conference: "in Proc. of IEEE Consumer Communications and Networking Conference (CCNC) 2011, Las Vegas, Jan. 2011."
+
+      - title: "M-Geocasting for Mobile Sink Groups in Wireless Sensor Networks"
+        authors: Hyungjoo Lee, Soochang Park, Hosung Park, Yongbin Yim, and Sang-Ha Kim
+        conference: "in Proc. of IEEE Consumer Communications and Networking Conference (CCNC) 2011, Las Vegas, Jan. 2011."
+
+      - title: "Strategy for Real-time Data Dissemination to Mobile Sinks in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Hosung Park, Juhyun Jung, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2010, Istanbul, Sep. 2010."
+
+      - title: "Consecutive Geographic Multicasting Protocol in Large-Scale Wireless Sensor Networks"
+        authors: Jeongcheol Lee, Euisin Lee, Soochang Park, Seungmin Oh and Sang-Ha Kim
+        conference: "in Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2010, Istanbul, Sep. 2010."
+
+      - title: "Energy- Efficient Predictive Tracking for Continuous Objects in Wireless Sensor Networks"
+        authors: Seung-Woo Hong, Sung-Kee Noh, Euisin Lee, Soochang Park, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2010, Istanbul, Sep. 2010."
+
+      - title: "An Explicit Disjoint Multipath Algorithm for Cost Efficiency in Wireless Sensor Networks"
+        authors: Hyun Woo Oh, Jong Hyun Jang, Kyeong Deok Moon, Soochang Park
+        conference: "in Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2010, Istanbul, Sep. 2010."
+
+      - title: "Detection and Tracking of Continuous Objects for Flexibility and Reliability in Sensor Networks"
+        authors: Bomi Park, Soochang Park, Euisin Lee, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Communications (ICC) 2010, Cape Town, May 2010."
+
+      - title: "Inter-domain Roaming Mechanism Transparent to IPv6-Node among PMIPv6 Networks"
+        authors: Soochang Park, Euisin Lee, Fucai Yu, Sungkee Noh, Sang-Ha Kim
+        conference: "in Proc. IEEE 71st Vehicular Technology Conference (VTC2010-Spring), Taipei, May 2010."
+
+      - title: "Sink-initiated Geographic Multicasting Protocol in Wireless Sensor Networks"
+        authors: Jeongcheol Lee, Euisin Lee, Soochang Park, Hosung Park, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Advanced Information Networking and Applications (AINA) 2010, Perth, Apr. 2010."
+
+      - title: "Communication Scheme to Support Sink Mobility in Multi-hop Clustered Wireless Sensor Networks"
+        authors: Seungmin Oh, Euisin Lee, Soochang Park, Juhyun Jung, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Advanced Information Networking and Applications (AINA) 2010, Perth, Apr. 2010."
+
+      - title: "General Sink Location Service Based on Circle and Line Paths in Wireless Sensor Networks"
+        authors: Euisin Lee, Fucai Yu, Soochang Park, Juhyun Jung, Sang-Ha Kim and Sungkee Noh
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2010, Sydney, Apr. 2010."
+
+      - title: "OMLRP: Multi hop Information based Real-Time Routing Protocol in Wireless Sensor Networks"
+        authors: Juhyun Jung, Soochang Park, Euisin Lee, Seungmin Oh, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2010, Sydney, Apr. 2010."
+
+      - title: "Information Communication Mechanism for Loosely Coupled Mobile User Groups in Wireless Sensor Fields"
+        authors: Soochang Park, Euisin Lee, Fucai Yu, Min-Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Advanced Information Networking and Applications (AINA) 2009, Bradford, May 2009."
+
+      - title: "Communication Scheme Independent of Publishers and Subscribers for Large-Scale Sensor Applications"
+        authors: Soochang Park, Euisin Lee, Fucai Yu, Min-Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2009, Budapest, Apr. 2009."
+
+      - title: "Communication Scheme for Loosely Coupled Mobile User Groups in Wireless Sensor Fields"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, Min-Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2009, Budapest, Apr. 2009."
+
+      - title: "A Data Dissemination Model Base on Content-based Publish/Subscribe Paradigm in Large-scale Wireless Sensor Networks"
+        authors: Min-Sook Jin, Hosung Park, Euisin Lee, Soochang Park, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2009, Budapest, Apr. 2009."
+
+      - title: "Geographic Routing based on On-demand Neighbor Position Information in Large Scale Mobile Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Hosung Park, Jeongchul Lee, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Symposium on Autonomous Decentralized Systems (ISADS) 2009, Athens, Mar. 2009."
+
+      - title: "Distributed Data Gathering and Data Multicasting for Wireless Sensor Networks with Multiple Mobile Sinks"
+        authors: Soochang Park, Euisin Lee, Fucai Yu, Min-Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IASTED Parallel and Distributed Computing and Networks (PDCN) 2009, Innsbruck, Feb. 2009."
+
+      - title: "Correlated Data Collection through Using Local Sink in Geographic Routing for Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Min-Sook Jin, Taehee Kim, Hosung Park, and Sang-Ha Kim
+        conference: "in Proc. IASTED Parallel and Distributed Computing and Networks (PDCN) 2009, Innsbruck, Feb. 2009."
+
+      - title: "Dynamic Rectangle Zone-based Collaboration Mechanism for Tracking Continuous Objects in Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, Min-Sook Jin, Hosung Park and Sang-Ha Kim
+        conference: " in Proc. IEEE International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM) 2008, Oct. 2008."
+
+      - title: "Anchor Node Based Virtual Modeling of Holes in Wireless Sensor Networks"
+        authors: Fucai Yu, Younghwan Choi, Soochang Park, Euisin Lee, Ye Tian, Minsuk Jin, Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Communications (ICC) 2008, Beijing, May 2008."
+
+      - title: "Energy-Efficient Data Dissemination Protocol for Detouring Routing Holes in Wireless Sensor Networks"
+        authors: Ye Tian, Fucai Yu, Younghwan Choi, Soochang Park, Euisin Lee, Minsook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Communications (ICC) 2008, Beijing, May 2008."
+
+      - title: "Communication Architecture to Support Multiple Mobile Users in Wireless Sensor Networks"
+        authors: Soochang Park, Euisin Lee, Younghwan Choi, Fucai Yu, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2008, Las Vegas, Mar. 2008."
+
+      - title: "Sink Location Service for Geographic Routing in Wireless Sensor Networks"
+        authors: Fucai Yu, Younghwan Choi, Soochang Park, Euisin Lee, Min-Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2008, Las Vegas, Mar. 2008."
+
+      - title: "Virtual Circle Based Geometric Modeling of Holes for Geographic Routing"
+        authors: Fucai Yu, Younghwan Choi, Soochang Park, Euisin Lee, Ye Tian, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2008, Las Vegas, Mar. 2008."
+
+      - title: "A Predictable Mobility-based Data Dissemination Protocol for Wireless Sensor Networks"
+        authors: Euisin Lee, Soochang Park, Fucai Yu, Younghwan Choi Choi, Min- Sook Jin, and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Advanced Information Networking and Applications (AINA) 2008, Okinawa, Mar. 2008."
+
+      - title: "A Data Dissemination Protocol based on Multiple Virtual Grids in Wireless Sensor Network"
+        authors: Min-Sook Jin, Younghwan Choi, Fucai Yu, Euisin Lee, Soochang Park, and Sang-Ha Kim
+        conference: "in Proc. IEEE Consumer Communications and Networking Conference (CCNC) 2008, Las Vegas, Jan. 2008."
+
+      - title: "Passive Data Dissemination Scheme for Supporting Inquirer Mobility in Wireless Sensor Networks"
+        authors: Younghwan Choi, Soochang Park, Euisin Lee, Fucai Yu, and Sang-Ha Kim
+        conference: "in Proc. IEEE Consumer Communications and Networking Conference (CCNC) 2008, Las Vegas, Jan. 2008."
+
+      - title: "An Edge Nodes Energy Efficient Hole Modeling in Wireless Sensor Networks"
+        authors: Fucai Yu, Younghwan Choi, Soochang Park, Eusin Lee, Ye Tian, and Sang-Ha Kim
+        conference: "in Proc. IEEE Global Communications Conference (GLOBECOM) 2007, Washington D.C., Nov. 2007."
+
+      - title: "A Tree Partition-based Overlay Multicast in Mobile Ad Hoc Networks"
+        authors: Fucai Yu, Younghwan Choi, Soochang Park, Donghun Lee, Euisin Lee, Ye Tian and Sang-Ha Kim
+        conference: "in Proc. IEEE International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM) 2007, Sep. 2007."
+
+      - title: "A Stability-based Overlay Multicast for Mobile Ad Hoc Networks"
+        authors: Fucai Yu, Soochang Park, Younghwan Choi, Donghun Lee, Euisin Lee, Ye Tian and Sang-Ha Kim
+        conference: "in Proc. IEEE 66th Vehicular Technology Conference (VTC2007-Fall), Baltimore, Sep. 2007."
+
+      - title: "A Communication Architecture to Reflect User Mobility Issue in Wireless Sensor Fields"
+        authors: Soochang Park, Donghun Lee, Euisin Lee, Younghwan Choi, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2007, Hong Kong, Mar. 2007."
+
+      - title: "An Implicit Cluster-based Overlay Multicast Protocol for Mobile Ad hoc Networks,"
+        authors: Younghwan Choi, Euisin Lee, Donghun Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
+        conference: "in Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2007, Hong Kong, Mar. 2007."
+
+      - title: "A Novel Mechanism to Support Mobility of Users in Wireless Sensor Networks Based on Multiple Static Sinks"
+        authors: Euisin Lee, Younghwan Choi, Soochang Park, Donghun Lee, and Sang-Ha Kim
+        conference: "in Proc. IEEE Consumer Communications and Networking Conference (CCNC), 2007, Las Vegas, Jan. 2007."
 
 skills:
     title: Skills &amp; Proficiency
