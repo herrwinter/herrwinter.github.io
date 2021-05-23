@@ -60,12 +60,12 @@ education:
     - degree: PhD(Integrated Course of Ms and PhD)
       university: Chungnam National University, Daejeon, Republic of Korea (6-years Full Scholarship from Korean Gov.)
       time: 2005 - 2011
-      details: Dissertation':' Data-centric Dissemination Protocols toward Mobile Sink Groups in Wireless Sensor Networks
+      details: "Dissertation: Data-centric Dissemination Protocols toward Mobile Sink Groups in Wireless Sensor Networks"
         
     - degree: BS
       university: Chungnam National University
       time: 1998 - 2005
-      details: Thesis':' Understanding and Configuration of the IPv6 Protocol and Related Routing Protocols
+      details: "Thesis: Understanding and Configuration of the IPv6 Protocol and Related Routing Protocols"
 
 experiences:
     - role: Associate Professor
@@ -332,13 +332,18 @@ publications:
         authors: Euisin Lee, Soochang Park, Fucai Yu, and Sang-Ha Kim
         conferences: "Journal of Communications and Networks (JCN), pp. 337-349, Aug. 2009."
 
+      - title:
+        authors:
+        conference:
 
-
-
+      - title:
+        authors:
+        conference:
 
       - title: "Conference Proceeding"
         authors:
         conference:
+          -
 
       - title: "Novel Paradigm for Abstraction and Management of Heterogenous Things over Large-scale Internet of Things"
         authors: Byeongjo Park, Sang-Hoon LEE, and Soochang PARK
